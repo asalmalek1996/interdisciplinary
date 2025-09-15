@@ -81,8 +81,5 @@ Interdisciplinary_project-main/
 
 **Supervisors**: Prof. Fabio Dovis, Prof. Giacomo Chiesa  
 
-## License
-This project is released under the MIT License.
-
 ---
 📌 Web App Demo: [SVF Calculator](http://polito-svf-calcuator.s3.us-east-1.amazonaws.com/index.html)  
