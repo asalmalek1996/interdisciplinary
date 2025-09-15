@@ -62,12 +62,6 @@ Interdisciplinary_project-main/
   - Sun path visualization  
   - Irradiance data (EPW or clearsky model)
 
-## Example
-![SVF Example](docs/example_svf.png)
-
-- Case A (Open square): SVF ~ 0.82  
-- Case B (Narrow canyon): SVF ~ 0.29  
-
 ## Results
 - SVF error < **3%** compared to reference tools.  
 - Supports **real irradiance (EPW)** and **theoretical clearsky models**.  
