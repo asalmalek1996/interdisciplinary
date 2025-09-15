@@ -86,4 +86,3 @@ This project is released under the MIT License.
 
 ---
 📌 Web App Demo: [SVF Calculator](http://polito-svf-calcuator.s3.us-east-1.amazonaws.com/index.html)  
-📌 GitHub: [Interdisciplinary Project Repository](https://github.com/isadseta/Interdisciplinary_project)  
