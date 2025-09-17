@@ -16,15 +16,16 @@ The project was developed as part of the **Interdisciplinary Project: "SVF and P
 - Backend implemented with **Python (FastAPI, MongoDB, RabbitMQ)**  
 - Cross-platform **frontend in Flutter** with map interface  
 
-## Repository Structure
+## 📂 Repository Structure (Updated)
 ```
-Interdisciplinary_project-main/
-│── backend/            # FastAPI backend services
-│── frontend/           # Flutter-based UI
-│── image_process.py    # SVF calculation and segmentation functions
-│── requirements.txt    # Python dependencies
-│── Report_Team_A_v1.1.pdf  # Project report
-│── README.md
+.
+├─ Asal/                   # SVF calculator module
+├─ Mehdi/                  # Image processor module
+├─ Sima/                   # Sun radiation module
+├─ requirments.txt         # project dependencies
+├─ pvlib_without_epw.py    # Solar calculations without EPW files
+└─ README.md               # Project documentation
+
 ```
 
 ## Installation
